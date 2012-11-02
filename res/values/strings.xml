@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Taverna Server Android Client</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_launch_main_panel">LaunchMainPanel</string>
+    
+    <string name="test_button_name">Start Test</string>
+    <string name="SplashScreenImageDescription">Taverna</string>
+
+</resources>
